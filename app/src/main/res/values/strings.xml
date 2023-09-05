@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">e-flipcart</string>
+    <string name="hyperlink">
+        <a href="www.google.com">Sign up</a>
+    </string>
+</resources>
